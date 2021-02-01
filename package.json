@@ -1,0 +1,23 @@
+{
+  "name": "api-for-providers",
+  "version": "1.0.0",
+  "description": "Designing and implementing an API that exposes endpoints to allow searching for providers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickalarcon/API-for-providers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickalarcon/API-for-providers/issues"
+  },
+  "homepage": "https://github.com/rickalarcon/API-for-providers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
