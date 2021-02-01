@@ -3,6 +3,7 @@ Designing and implementing an API that exposes endpoints to allow searching for 
 
 # Technologies
 Node.js
+
 Express.js
 
 # API testing - Postman
